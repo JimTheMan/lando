@@ -2,7 +2,7 @@
 
 ## 🚧 maintenance mode ahead 🚧
 
-As of [this announcement](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/) AWS not officialy supports Rust through [this](https://github.com/awslabs/aws-lambda-rust-runtime) project. As mentioned below
+As of [this announcement](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/) AWS now officialy supports Rust through [this](https://github.com/awslabs/aws-lambda-rust-runtime) project. As mentioned below
 this projects goal was to work with and not against the strong lambda ecosystem. As a result I'm merging efforts
 with the official [AWS Rust lambda project](https://github.com/awslabs/aws-lambda-rust-runtime). Thank you for your interest and support with lando! We've still got a great road ahead.
 
